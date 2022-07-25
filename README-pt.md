@@ -1,15 +1,15 @@
 
 
 <h1 align="center">
-    <img alt="sistema_encomendas" title="#sistema_encomendas" src="./assets/readme-img/x.png" />
+    <img alt="sistema_encomendas" title="#sistema_encomendas" src="./readme-img/logo.png" />
 </h1>
 
 <h1 align="center">
-   🍰 <a href="#"> SISTEMA DE GESTÃO DE ENCOMENDAS </a>
+   🍰 <a href="#"> SISTEMA DE GESTÃO DE ENCOMENDAS </a> 🍰
 </h1>
 
 <h3 align="center">
-    Sistema de gestão de encomendas de uma confeitaria para um projeto da faculdade.  
+    Confex - Sistema de Gestão e Controle de Encomendas.  
 </h3>
 
 <p align="center">
@@ -67,19 +67,27 @@ Esse sistema de gestão foi feito para um projeto interdisciplinar da faculdade 
 ## Layout
 
 <p align="center">
-  <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-1.png" width="300px">
+  <img alt="sistema_encomendas" title="#sistema_encomendas" src="./readme-img/login.png" width="400">
 
-  <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-2.png" width="300px">
-  
-  <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-3.png" width="300px">
+  <img alt="sistema_encomendas" title="#sistema_encomendas" src="./readme-img/redef_senha.png" width="300px">
 </p>
 
 <p align="center">
-  <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-4.png" width="300px">
+  <img alt="sistema_encomendas" title="#sistema_encomendas" src="./readme-img/pedido.png" width="400px">
+	
+  <img alt="sistema_encomendas" title="#sistema_encomendas" src="./readme-img/ajuda.png" width="400px">
+</p>
 
-  <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-5.png" width="300px">
+<p align="center">
+  <img alt="sistema_encomendas" title="#sistema_encomendas" src="./readme-img/consulta.png" width="400px">
   
-  <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-6.png" width="300px">
+  <img alt="sistema_encomendas" title="#sistema_encomendas" src="./readme-img/controle.png" width="400px">
+</p>
+
+<p align="center">
+  <img alt="sistema_encomendas" title="#sistema_encomendas" src="./readme-img/cad_promo.png" width="400px">
+
+  <img alt="sistema_encomendas" title="#sistema_encomendas" src="./readme-img/notif_promo.png" width="400px">
 </p>
 
 ---
