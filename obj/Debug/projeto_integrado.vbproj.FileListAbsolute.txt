@@ -1,0 +1,129 @@
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\bin\Debug\projeto_integrado.exe.config
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\bin\Debug\projeto_integrado.exe
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\bin\Debug\projeto_integrado.pdb
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\bin\Debug\projeto_integrado.xml
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.vbproj.AssemblyReference.cache
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.vbproj.SuggestedBindingRedirects.cache
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.Resources.resources
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.vbproj.GenerateResource.cache
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.vbproj.CoreCompileInputs.cache
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.exe
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.xml
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.pdb
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\Interop.ADODB.dll
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.vbproj.ResolveComReference.cache
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.Consulta.resources
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.controle.resources
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.promocao.resources
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.login.resources
+C:\Users\t1\Documents\FATEC São Caetano do Sul\2º semestre\Sistemas de Informação\projeto integrado\projeto_integrado\obj\Debug\projeto_integrado.frm_pedido.resources
+C:\Users\Acer\Desktop\projeto_integrado\bin\Debug\projeto_integrado.exe.config
+C:\Users\Acer\Desktop\projeto_integrado\bin\Debug\projeto_integrado.exe
+C:\Users\Acer\Desktop\projeto_integrado\bin\Debug\projeto_integrado.pdb
+C:\Users\Acer\Desktop\projeto_integrado\bin\Debug\projeto_integrado.xml
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.vbproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\Interop.ADODB.dll
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.vbproj.ResolveComReference.cache
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.Resources.resources
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.vbproj.GenerateResource.cache
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.exe
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.xml
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.pdb
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_consulta.resources
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_controle.resources
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_pedido.resources
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_promo_notif.resources
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_login.resources
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_promo_cad.resources
+C:\Users\Aluno\Desktop\projeto_integrado\bin\Debug\projeto_integrado.exe.config
+C:\Users\Aluno\Desktop\projeto_integrado\bin\Debug\projeto_integrado.exe
+C:\Users\Aluno\Desktop\projeto_integrado\bin\Debug\projeto_integrado.pdb
+C:\Users\Aluno\Desktop\projeto_integrado\bin\Debug\projeto_integrado.xml
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\Interop.ADODB.dll
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.vbproj.ResolveComReference.cache
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_consulta.resources
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_controle.resources
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_pedido.resources
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_promo_notif.resources
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_login.resources
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.Resources.resources
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_promo_cad.resources
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.vbproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.exe
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.xml
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.pdb
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\bin\Debug\projeto_integrado.exe.config
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\bin\Debug\projeto_integrado.exe
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\bin\Debug\projeto_integrado.pdb
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\bin\Debug\projeto_integrado.xml
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.vbproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\Interop.ADODB.dll
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.vbproj.ResolveComReference.cache
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.frm_consulta.resources
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.frm_controle.resources
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.frm_pedido.resources
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.frm_login.resources
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.frm_promo_notif.resources
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.Resources.resources
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.frm_promo_cad.resources
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.vbproj.GenerateResource.cache
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.exe
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.xml
+C:\Users\Acer\Desktop\proj integrado\projeto_integrado\obj\Debug\projeto_integrado.pdb
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\bin\Debug\projeto_integrado.exe.config
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\bin\Debug\projeto_integrado.exe
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\bin\Debug\projeto_integrado.pdb
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\bin\Debug\projeto_integrado.xml
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.vbproj.AssemblyReference.cache
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.vbproj.SuggestedBindingRedirects.cache
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\Interop.ADODB.dll
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.vbproj.ResolveComReference.cache
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.frm_consulta.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.frm_controle.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.frm_pedido.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.frm_login.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.frm_promo_notif.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.Resources.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.frm_promo_cad.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.vbproj.GenerateResource.cache
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.vbproj.CoreCompileInputs.cache
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.exe
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.xml
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\projeto_integrado\obj\Debug\projeto_integrado.pdb
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.vbproj.AssemblyReference.cache
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.vbproj.SuggestedBindingRedirects.cache
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\Interop.ADODB.dll
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.vbproj.ResolveComReference.cache
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.frm_consulta.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.frm_controle.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.frm_pedido.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.frm_login.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.frm_promo_notif.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.Resources.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.frm_promo_cad.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.vbproj.GenerateResource.cache
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.vbproj.CoreCompileInputs.cache
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.exe
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.xml
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.pdb
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\bin\Debug\projeto_integrado.exe.config
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\bin\Debug\projeto_integrado.exe
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\bin\Debug\projeto_integrado.pdb
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\bin\Debug\projeto_integrado.xml
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_ajuda.resources
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_nova_senha.resources
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_comanda.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.frm_comanda.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.frm_ajuda.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.frm_nova_senha.resources
+D:\FATEC SCS - ADS\FATEC SCS - ADSVA2\Projeto Interdisciplinar\Confex\projeto_integrado\obj\Debug\projeto_integrado.frm_splash.resources
+C:\Users\Acer\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_splash.resources
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_comanda.resources
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_ajuda.resources
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_nova_senha.resources
+C:\Users\Aluno\Desktop\projeto_integrado\obj\Debug\projeto_integrado.frm_splash.resources
