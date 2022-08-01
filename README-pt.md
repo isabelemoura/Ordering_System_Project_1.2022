@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/naomy19/Ordering_System_Project_1.2022/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/badge/last%20commit-december-informational">
+    <img alt="GitHub last commit" src="https://img.shields.io/badge/last%20commit-june-informational">
   </a>   
 </p>
 
