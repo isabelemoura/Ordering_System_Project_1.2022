@@ -27,7 +27,7 @@
  <a href="#about">About</a> •
  <a href="#features">Features</a> •
  <a href="#layout">Layout</a> • 
- <a href="#contributors">Contributors</a> • 
+ <a href="#contributors">Contributors</a> 
 </p>
 
 
