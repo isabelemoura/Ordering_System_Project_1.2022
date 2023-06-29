@@ -126,19 +126,6 @@ Design:
 
 ---
 
-## Author
-
-<a href="https://github.com/naomy19">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/naomy19" width="100px;" alt="Camilla Naomy Tsuda"/>
- <br />
- <sub><b>Camilla Naomy Tsuda</b></sub></a> 
- <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-Camilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilla-naomy-tsuda-33839b133/)](https://www.linkedin.com/in/camilla-naomy-tsuda-33839b133/) 
-[![Gmail Badge](https://img.shields.io/badge/-camillanaomy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camillanaomy@gmail.com)](mailto:camillanaomy@gmail.com)
-
----
-
 ##  Versions of README
 
 [English](./README.md)  |  [Portuguese](./README-pt.md)
