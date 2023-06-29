@@ -27,8 +27,7 @@
  <a href="#sobre">Sobre</a> •
  <a href="#funcionalidades">Funcionalidades</a> •
  <a href="#layout">Layout</a> • 
- <a href="#contribuidores">Contribuidores</a> • 
- <a href="#autora">Autora</a>
+ <a href="#contribuidores">Contribuidores</a> 
 </p>
 
 
@@ -123,19 +122,6 @@ Design:
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
-
----
-
-## Autora
-
-<a href="https://github.com/naomy19">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/naomy19" width="100px;" alt="Camilla Naomy Tsuda"/>
- <br />
- <sub><b>Camilla Naomy Tsuda</b></sub></a> 
- <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-Camilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilla-naomy-tsuda-33839b133/)](https://www.linkedin.com/in/camilla-naomy-tsuda-33839b133/) 
-[![Gmail Badge](https://img.shields.io/badge/-camillanaomy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camillanaomy@gmail.com)](mailto:camillanaomy@gmail.com)
 
 ---
 
